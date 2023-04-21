@@ -1,0 +1,51 @@
+[
+    {
+        "JobTitle":"Mern Developer",
+        "location":"Delhi",
+        "salaryRange":"6LPA-8LPA",
+        "experienceLevel":"intermediate"
+    },
+    {
+        "JobTitle":"Java Developer",
+        "location":"Kanpur",
+        "salaryRange":"5LPA-6LPA",
+        "experienceLevel":"Beginner"
+    },
+    {
+        "JobTitle":"Web Developer",
+        "location":"Mumbai",
+        "salaryRange":"10LPA-11LPA",
+        "experienceLevel":"advanced"
+    },
+    {
+        "JobTitle":"Frontend Developer",
+        "location":"Delhi",
+        "salaryRange":"4LPA-7LPA",
+        "experienceLevel":"intermediate"
+    },
+    {
+        "JobTitle":"Backend Developer",
+        "location":"New Delhi",
+        "salaryRange":"4LPA-6LPA",
+        "experienceLevel":"intermediate"
+    },
+    {
+        "JobTitle":"Python Developer",
+        "location":"Kolkata",
+        "salaryRange":"16LPA-18LPA",
+        "experienceLevel":"advanced"
+    },
+    {
+        "JobTitle":"Blockchain Developer",
+        "location":"Noida",
+        "salaryRange":"10LPA-12LPA",
+        "experienceLevel":"advanced"
+    },
+    {
+        "JobTitle":"Mern Developer",
+        "location":"Patna",
+        "salaryRange":"5LPA-7LPA",
+        "experienceLevel":"intermediate"
+    }
+
+]
